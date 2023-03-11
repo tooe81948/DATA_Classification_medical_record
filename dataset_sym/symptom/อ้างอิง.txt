@@ -1,0 +1,2 @@
+covid
+https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker
